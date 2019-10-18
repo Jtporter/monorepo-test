@@ -1,0 +1,12 @@
+{
+    "name": "your-monorepo/spinach",
+    "require": {
+        "php": "^7.1",
+        "symfony/dependency-injection": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Monorepo\\Spinach\\": "src"
+        }
+    }
+}
