@@ -26,6 +26,7 @@ $hello = '<h1>I am a monorepo app!</h1>';
 <style>
     body {
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        background-color: #e7e7e7;
     }
 </style>
 
