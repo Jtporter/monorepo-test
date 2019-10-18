@@ -7,5 +7,5 @@ parameters:
 
     # for "split" command
     directories_to_repositories:
-        packages/vegetable: 'git@github.com:Jtporter/monorepo-test/Vegetable.git'
-        packages/spinach: 'git@github.com:Jtporter/monorepo-test/Spinach.git'
+        packages/vegetable: 'git@github.com:Jtporter/monorepo-test/vegetable.git'
+        packages/spinach: 'git@github.com:Jtporter/monorepo-test/spinach.git'
