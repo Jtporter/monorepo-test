@@ -1,4 +1,5 @@
 {
+    "name": "Monorepo",
     "require": {
         "php": "^7.1",
         "symfony/dependency-injection": "^4.1",
