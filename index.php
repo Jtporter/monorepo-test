@@ -1,6 +1,5 @@
 <?php
 require __DIR__.'/vendor/autoload.php';
-include './custom/hello_world/hello_world.php';
 include './packages/vegetable/src/Vegetable.php';
 include './packages/spinach/src/Spinach.php';
 
@@ -31,7 +30,7 @@ $hello = '<h1>I am a monorepo app!</h1>';
 </style>
 
 <body>
-<?php echo hello_world('HELLO FROM PLUGIN'); ?>
+<?php echo '<h1>Hello World!</h1>'; ?>
 <pre>
 <?php
 $veggie = new Vegetable(false, "blue");
