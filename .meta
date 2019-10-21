@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "packages/spinach": "git@github.com:Jtporter/spinach.git",
+    "packages/vegetable": "git@github.com:Jtporter/vegetable.git"
+  }
+}
