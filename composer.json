@@ -1,5 +1,5 @@
 {
-    "name": "Monorepo",
+    "name": "monorepo/root",
     "require": {
         "php": "^7.1",
         "symfony/dependency-injection": "^4.1",
@@ -16,8 +16,8 @@
         }
     },
     "replace": {
-        "your-monorepo/spinach": "self.version",
-        "your-monorepo/vegetable": "self.version"
+        "monorepo/spinach": "self.version",
+        "monorepo/vegetable": "self.version"
     },
     "config": {
         "optimize-autoloader": true
